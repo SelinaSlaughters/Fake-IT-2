@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/Bootcamp Just IT"
+		},
+		{
+			"path": "../../Desktop/My Project.CV"
+		},
+		{
+			"path": "../../Desktop/The Frontend Frenzy"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bootcamp Just IT"
+	}
+}

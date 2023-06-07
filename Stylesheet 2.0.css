@@ -1,0 +1,213 @@
+   body {
+      padding: 0px;
+      margin: 0px;
+      font-family: 'Rubik';
+   }
+
+   .Banner {
+      text-align: center;
+      display: block;
+      background-color: #216E70;
+      font-size: 14px;
+      color: white;
+      font-weight: bold;
+      padding: 14px;
+      margin-bottom: -10px;
+   }
+
+   .Logo {
+      width: 250px;
+      height: 97px;
+      float: left;
+      position: relative;
+      top: -15px;
+      left: 15px;
+      bottom: 0px;
+   }
+
+   .Nav-menu {
+      list-style: none;
+      font-size: 17px;
+
+   }
+
+   .Nav-list-item {
+      display: inline-block;
+      padding-top: 45px;
+      position: relative;
+      top: -20px;
+      left: 270px;
+
+   }
+
+   .List-item {
+      text-decoration: none;
+      color: rgb(0, 0, 0);
+      padding-left: 20px;
+      padding-right: 25px;
+      padding-top: 30px;
+      padding-bottom: 30px;
+
+   }
+
+   .List-item:hover {
+
+      color: #216E70;
+
+   }
+
+   #Front-image {
+      width: 1347px;
+      height: 500px;
+      position: relative;
+      top: -40px;
+      margin-bottom: 20px;
+   }
+
+   .Page-title {
+      color: rgb(100, 99, 99);
+      
+      margin-left: 100px;
+      margin-top: 30px;
+   }
+
+   .Page-title-2 {
+      color: rgb(224, 224, 224);
+      
+      margin-top: -600px;
+      margin-left: 350px;
+
+   }
+
+   .paragraph {
+      word-wrap: break-word;
+      width: 560px;
+      
+      color: rgb(100, 99, 99);
+      margin-left: 100px
+   }
+
+   .Video {
+      padding-left: -3px;
+      padding-top: 40px;
+   }
+
+   .map {
+      position: relative;
+      top: -800px;
+      left: +830px;
+      border: 5px solid #216E70;
+      margin-right: 0px;
+   }
+
+   .Map-border {
+      border: 5px solid #216E70;
+      width: 400px;
+      height: 250px;
+      position: relative;
+      top: -535px;
+      left: +825px;
+      margin-top: 55px;
+   }
+
+   #search {
+
+      color: #216E70;
+      position: relative;
+      top: 34px;
+      margin-left: 1090px;
+   }
+
+
+   #search-2 a{
+      text-decoration:none;
+      color: #216E70;
+      }
+
+   #search-2 {
+
+      color: #216E70;
+      position: relative;
+      top: 15px;
+      margin-left: 900px;
+      font-weight: 580;
+   
+   }
+
+   #form {
+
+      position: relative;
+      left: 830px;
+      top: -100px;
+      
+
+   }
+
+
+   .N-Logo {
+
+      width: 35px;
+      height: 35px;
+      margin-left: 1260px;
+      position: relative;
+      bottom: 66px;
+
+   }
+
+   #eligibility {
+      word-wrap: break-word;
+      width: 560px;
+      color: rgb(100, 99, 99);
+      margin-top: -540px;
+      margin-left: 100px;
+
+
+   }
+
+   h2 {
+
+      color: rgb(100, 99, 99);
+
+   }
+
+   #Photo-3 {
+      width: 400px;
+      height: 250px;
+      position: relative;
+      bottom: 510px;
+      left: 423px; 
+      border: 5px solid #216E70;
+
+   }
+
+
+   #Photo-4 {
+      width: 400px;
+      height: 250px;
+      position: relative;
+      bottom: 145px;
+      left: 830px; 
+      border: 5px solid #216E70;
+
+
+   }
+
+   #fname {
+
+      width: 400px;
+      height: 40px;
+    
+
+   }
+   
+   #lname {
+
+      
+      width: 400px;
+      height: 40px;
+   
+
+   }
+
+
+ 
